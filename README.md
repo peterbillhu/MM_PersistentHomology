@@ -9,3 +9,4 @@ Website: http://people.maths.ox.ac.uk/nanda/perseus/
 
 # How to use the codes?
 
+## To add big salts and peppers
