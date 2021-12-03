@@ -6,7 +6,7 @@
 Windows 10, Matlab 2019
 
 ## Step 1. Download Perseus
-Please download perseusWin.exe for computing the persistent homology and put it under the folder named by Perseus.  
+Please download perseusWin.exe and put it under the folder named by Perseus for computing the persistent homology.  
 Website: http://people.maths.ox.ac.uk/nanda/perseus/
 
 # How to use the codes?
