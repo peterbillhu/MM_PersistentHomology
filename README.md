@@ -1,6 +1,6 @@
 # MM_PersistentHomology
 
-# Step 0. Environment
+# Step 0. Check the backgrond environment
 Windows 10, Matlab 2019
 
 # Step 1. Download Perseus
