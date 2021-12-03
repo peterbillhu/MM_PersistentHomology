@@ -10,4 +10,4 @@ Website: http://people.maths.ox.ac.uk/nanda/perseus/
 # How to use the codes?
 
 ## To generate 100 iterations
-Please execute the Matlab m file named by ``Test_100_Iterations.m''. Because of the copyright issue, we in this code, we only generate the result for the Matlab function ``denoiseImage'' and ours.
+Please execute the Matlab m file named by ``Test_100_Iterations.m''. Because of the copyright issue, in this code we only generate the result for the Matlab function ``denoiseImage'' and ours.
