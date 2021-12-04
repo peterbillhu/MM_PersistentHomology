@@ -14,11 +14,11 @@ Website: http://people.maths.ox.ac.uk/nanda/perseus/
 ## To remove salts and peppers in binary images (Version 2021.12)
 
 ## To generate the 100 iterations
-Please execute the Matlab m file named by ``Test_100_Iterations``. 
+Please execute the Matlab m file named by ``Test_100_Iterations``. Because of the copyright issue, in this project, we only generate the result for the Matlab function ``denoiseImage`` and ours. If you want to test other algorithms, please download the corresponding Matlab m files and put them into the root folder of the project.
 
-## Related denoising algorithm compared in this paper
+## Related denoising algorithms
 
-Because of the copyright issue, in this project, we only generate the result for the Matlab function ``denoiseImage`` and ours. If you want to test other algorithms, please download the corresponding Matlab m files and put them into the root folder of the project.
+The following Matlab codes are also compared in this paper.
 
 AMD:  https://www.mathworks.com/matlabcentral/fileexchange/30068-adaptive-median-filter-matlab-code  
 NAMF: https://github.com/ProfHubert/NAMF  
