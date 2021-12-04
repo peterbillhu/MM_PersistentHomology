@@ -1,7 +1,6 @@
 # MM_PersistentHomology
 
-This project is for our paper: A Multi-parameter Persistence Framework for Mathematical Morphology.  
-It is available on arXiv: https://arxiv.org/abs/2103.13013.
+This project is for our paper: A Multi-parameter Persistence Framework for Mathematical Morphology (https://arxiv.org/abs/2103.13013).  
 
 # Settings
 
