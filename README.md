@@ -23,5 +23,5 @@ Please execute the Matlab m file named by ``Test_100_Iterations``. Because of th
 
 The following Matlab codes are also compared in this paper.
 
-AMD:  https://www.mathworks.com/matlabcentral/fileexchange/30068-adaptive-median-filter-matlab-code  
+AMF:  https://www.mathworks.com/matlabcentral/fileexchange/30068-adaptive-median-filter-matlab-code  
 NAMF: https://github.com/ProfHubert/NAMF  
